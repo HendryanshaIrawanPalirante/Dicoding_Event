@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="error_400">Kesalahan permintaan. Periksa kembali input Anda.</string>
+    <string name="error_401">Anda tidak memiliki izin. Silakan login ulang.</string>
+    <string name="error_403">Akses ditolak. Hubungi admin jika perlu.</string>
+    <string name="error_404">Data tidak ditemukan. Coba lagi nanti.</string>
+    <string name="error_500">Terjadi kesalahan di server. Coba lagi nanti.</string>
+    <string name="error_default">Terjadi kesalahan (%d): %s</string>
+    <string name="not_avaliable">Event data is not available</string>
+    <string name="on_failure">"Gagal terhubung ke server. Periksa koneksi internet Anda."</string>
+    <string name="event_detail_title">Title</string>
+    <string name="event_owner">Owner :</string>
+    <string name="event_begin">Begin :</string>
+    <string name="event_quota">Quota :</string>
+    <string name="description">Description</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="image_event">Image Event</string>
+    <string name="home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="text_hint_search_view">Masukan Nama Event</string>
+    <string name="btn_register">Register</string>
+    <string name="favorite">Favorite</string>
+    <string name="tambah_event_ke_favorite">tambah event ke favorite</string>
+    <string name="gambar_event">Gambar event</string>
+    <string name="maaf_event_tidak_tersedia">Maaf Event Tidak Tersedia</string>
+    <string name="belum_menyimpan_event">Belum Menyimpan Event</string>
+</resources>

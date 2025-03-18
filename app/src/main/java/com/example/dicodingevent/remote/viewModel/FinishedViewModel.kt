@@ -1,0 +1,10 @@
+package com.example.dicodingevent.remote.viewModel
+
+import androidx.lifecycle.ViewModel
+import com.example.dicodingevent.data.EventsRepository
+
+class FinishedViewModel(private val eventsRepository: EventsRepository): ViewModel() {
+
+    fun getFinishedEvents(activeEvents: Int) = eventsRepository.getEvents(activeEvents)
+
+}
