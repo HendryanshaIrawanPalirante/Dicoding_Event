@@ -29,5 +29,5 @@
 ---
 
 ## 🖼️ Tampilan Aplikasi
-<img src="https://drive.google.com/file/d/1kr3aNahRRTi00J9zWwdzkV63BdkawfrH/view?usp=sharing" />
+<img src="https://drive.google.com/file/d/1kr3aNahRRTi00J9zWwdzkV63BdkawfrH/view?usp=sharing" alt="Tampilan Aplikasit" width="300" />
 
