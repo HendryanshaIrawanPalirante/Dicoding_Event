@@ -29,5 +29,5 @@
 ---
 
 ## 🖼️ Tampilan Aplikasi
-<img src="https://drive.google.com/file/d/1kr3aNahRRTi00J9zWwdzkV63BdkawfrH/view?usp=sharing" alt="Tampilan Aplikasit" width="300" />
+![Dicoding Event](https://github.com/user-attachments/assets/370a37c6-3371-40b9-8a37-fdffb9c4e2da)
 
