@@ -6,13 +6,13 @@
 
 ## 🚀 Fitur Utama
 
-- 🔍 **Daftar Event**  
+- **Daftar Event**  
   Menampilkan seluruh Event yang diselenggarakan oleh Dicoding Indonesia.
 
-- 🛍️ **Detail Event**  
+- **Detail Event**  
   Berisi informasi detail tentang event.
 
-- 🤝 **Favorite**  
+- **Favorite**  
   Pengguna dapat menyimpan event sebagai favorite.
 
 ---
